@@ -1,0 +1,7 @@
+@media screen and (max-width:600px){
+    .top_player {
+    
+        grid-template-columns: repeat(3,1fr);
+    
+    }
+}
